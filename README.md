@@ -1,5 +1,5 @@
 # Working statistics - Work wage tracker app
-I made this Flutter app when I was working as a student (2021) to track my wage from month to month with logging my shifts.
+I made this Flutter app when I was working as a student (2021) to track my wage from month to month by logging my shifts.
 I just started learning Flutter when I wrote this code. I learned much since then.
 
 The app stores the data locally. The stored data is a JSON array with serialized instances of the `Work` (`lib/models/work.dart`) class as JSON objects in it.
